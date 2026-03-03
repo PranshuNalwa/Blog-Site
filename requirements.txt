@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+flask-bcrypt
+flask-login
+flask-mail
+flask-wtf
+python-dotenv
+itsdangerous
+pillow
