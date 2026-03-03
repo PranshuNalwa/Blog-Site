@@ -7,3 +7,4 @@ flask-wtf
 python-dotenv
 itsdangerous
 pillow
+psycopg2-binary
